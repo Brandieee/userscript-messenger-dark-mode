@@ -7,7 +7,7 @@
 // @version     1.0
 // @author      Brandieee
 // @description 12/12/2020, 7:14:52 PM
-// @downloadURL https://github.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.js
+// @downloadURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.js
 // ==/UserScript==
 
 window.addEventListener('load', (event) => {
