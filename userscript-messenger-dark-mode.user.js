@@ -4,7 +4,7 @@
 // @include     https://www.messenger.com/*
 // @grant       none
 // @run-at      document-end
-// @version     1.0.1
+// @version     1.0.2
 // @author      Brandieee
 // @description 16/12/2020
 // @updateURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.meta.js
@@ -17,7 +17,7 @@ window.addEventListener('load', (event) => {
 
 
 function changeStylesheet() {
-  if (document.styleSheets.length >= 4){
+  if (document.styleSheets.length >= 1){
       
     sep = document.styleSheets[0].cssRules[1].cssText.indexOf(':')
 	document.styleSheets[0].insertRule(document.styleSheets[0].cssRules[1].cssText.slice(sep))
