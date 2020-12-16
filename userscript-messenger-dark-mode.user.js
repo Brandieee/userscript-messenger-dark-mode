@@ -8,7 +8,7 @@
 // @author      Brandieee
 // @description 16/12/2020
 // @updateURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.meta.js
-// @downloadURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.js
+// @downloadURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.user.js
 // ==/UserScript==
 
 window.addEventListener('load', (event) => {
