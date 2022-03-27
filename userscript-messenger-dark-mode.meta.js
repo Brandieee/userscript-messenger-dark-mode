@@ -4,7 +4,7 @@
 // @include     https://www.messenger.com/*
 // @grant       none
 // @run-at      document-end
-// @version     1.0.3
+// @version     1.0.4
 // @author      Brandieee
 // @description 16/10/2021
 // @updateURL https://raw.githubusercontent.com/Brandieee/userscript-messenger-dark-mode/main/userscript-messenger-dark-mode.meta.js
