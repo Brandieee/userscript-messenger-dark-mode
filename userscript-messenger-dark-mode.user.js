@@ -18,8 +18,7 @@ window.addEventListener('load', (event) => {
 
 function changeStylesheet() {
   if (document.styleSheets.length >= 1){
-	  document.styleSheets[0].insertRule(':root,' + document.styleSheets[0].cssRules[3].cssText)
-	  document.styleSheets[0].deleteRule(3)
+	  document.styleSheets[0].deleteRule(2)
   } else {
     console.log("Waiting")
     setTimeout(changeStylesheet, 300);
